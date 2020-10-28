@@ -1,0 +1,11 @@
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\bin\Debug\netcoreapp3.1\DoublyLL.exe
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\bin\Debug\netcoreapp3.1\DoublyLL.deps.json
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\bin\Debug\netcoreapp3.1\DoublyLL.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\bin\Debug\netcoreapp3.1\DoublyLL.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\bin\Debug\netcoreapp3.1\DoublyLL.dll
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\bin\Debug\netcoreapp3.1\DoublyLL.pdb
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\obj\Debug\netcoreapp3.1\DoublyLL.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\obj\Debug\netcoreapp3.1\DoublyLL.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\obj\Debug\netcoreapp3.1\DoublyLL.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\obj\Debug\netcoreapp3.1\DoublyLL.dll
+C:\Users\monisha.khapali\source\repos\DoublyLL\DoublyLL\obj\Debug\netcoreapp3.1\DoublyLL.pdb
